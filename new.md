@@ -2,8 +2,11 @@
 
 Here is some reg text
 
-* bullit
-* Dave Stout
+* git add .
+* git status
+* git commit -m "message"
+* git push origin master
+* git log
 
 [Link to google] (http://www.google.com)
 
